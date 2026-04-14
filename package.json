@@ -1,0 +1,26 @@
+{
+  "name": "node-farm",
+  "version": "1.0.0",
+  "description": "Learning Node JS",
+  "homepage": "https://github.com/tanishj2006/Node-Farm#readme",
+  "bugs": {
+    "url": "https://github.com/tanishj2006/Node-Farm/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tanishj2006/Node-Farm.git"
+  },
+  "license": "ISC",
+  "author": "Tanish Jain",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "slugify": "^1.6.9"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
